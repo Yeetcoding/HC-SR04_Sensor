@@ -9,4 +9,4 @@ This simple diagram allows us to use the sensor:
 
 ## Stwp Two: Write the code
 
-Use the starter code here in the repository to get the sensor working.
+Use the [starter code here](https://github.com/WHS-Robotics-Classes/HC-SR04_Sensor/blob/main/HC-SR04_demo.ino) in the repository to get the sensor working.
